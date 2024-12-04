@@ -33,5 +33,6 @@ while (!finished) {
 	  println "Sorry, that is not a valid option";
     }	  
 }
+println "random edit"
 println "Exiting the program";
 
